@@ -31,3 +31,6 @@
   * [Raspberry Pi Brasil](https://www.facebook.com/groups/231121887079558/)
   * [Rasbperry Pi Brasil Compra e Venda](https://www.facebook.com/groups/766241926830726/)
   * [Sistemas Embarcados](https://www.facebook.com/groups/sistemasembarcados)
+* Telegram
+  * [Arduino, Raspberry, Eletrônica e Afins...](https://telegram.me/arduinobr)
+  * [Makers de Internet das Coisas](#)
