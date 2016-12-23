@@ -31,7 +31,53 @@
 
 * Região - Sul
 
+| Loja | Estado |
+|---|---|
+| [Proesi](http://proesi.com.br/) | SC |
+| [Eletrodex](http://www.eletrodex.com.br/) | SC |
+| [FilipeFlop](http://www.filipeflop.com/) | SC |
+| [Brasil Robotics](https://lojabrasilrobotics.blogspot.com.br/) | SC |
+| [Webtronico](http://www.webtronico.com/) | RS |
+| [UsinaInfo](http://www.usinainfo.com.br/) | RS |
+
+* Região - Nordeste
+
+| Loja | Estado |
+|---|---|
+| [Autocore Robótica](http://www.autocorerobotica.com.br/) | CE |
+| [Mekhos](http://www.mekhos.com.br/loja/) | PE |
+| [Arduinolandia](http://www.arduinolandia.com.br/) | PE |
+
+* Região - Centro Oeste
+
+| Loja | Estado |
+|---|---|
+| [Hu Infinito](http://www.huinfinito.com.br/) | DF |
+
+* Outros
+
+| Loja | Estado |
+|---|---|
+| [Mercado Livre](http://www.mercadolivre.com.br/) | - |
+
+
 #### Internacionais
+
+| Loja |
+|---|
+| [DealeXtreme](http://www.autocorerobotica.com.br/) |
+| [Ebay](http://www.ebay.com/) |
+| [AliExpress](https://pt.aliexpress.com/br_home.htm) |
+| [Icstation](http://www.icstation.com/) |
+| [CentroMaker](http://centromaker.com/) |
+| [Maker Shed](http://www.makershed.com/) |
+| [SparkFun](https://www.sparkfun.com/) |
+| [CuteDigi](http://store.cutedigi.com/) |
+| [HobbyKing](https://hobbyking.com/en_us) |
+| [Banggood](http://www.banggood.com/) |
+| [TinyDeal](http://www.tinydeal.com/) |
+| [MiniInTheBox](http://www.miniinthebox.com/pt/) |
+| [TomTop](http://www.tomtop.com/) |
 
 ### Sites-Blogs
 
