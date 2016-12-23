@@ -6,6 +6,12 @@
  * [Grupos](#grupos)
  
 ### Lojas
+* [Nacionais](#nacionais)
+* [Internacionais](#internacionais)
+
+#### Nacionais
+
+#### Internacionais
 
 ### Sites-Blogs
 
