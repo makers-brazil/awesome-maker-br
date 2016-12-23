@@ -11,6 +11,26 @@
 
 #### Nacionais
 
+* Região - Sudeste
+
+| Loja | Estado |
+|---|---|
+| [Projeto Arduino](http://www.projetoarduino.com.br/) | SP |
+| [Multilógica Shop](https://multilogica-shop.com/) | SP |
+| [Instituto Digital](http://www.institutodigital.com.br/) | SP |
+| [RoboCore](https://www.robocore.net/) | SP |
+| [Baú da Eletrônica](http://www.baudaeletronica.com.br/) | SP |
+| [Vida de Silício](http://www.vidadesilicio.com.br/) | ES |
+| [Eletrogate](http://www.eletrogate.com/) | MG |
+| [Loja Arduino](http://www.lojaarduino.com.br/) | MG |
+| [MartaDuino](http://www.martaduino.com.br/) | SP |
+| [Mult Comercial](http://loja.multcomercial.com.br/) | SP |
+| [Inobot](http://www.inobot.com.br/) | SP |
+| [Tecnoduino](http://www.tecnoduino.com/) | SP |
+| [Sttamp - Componentes eletrônicos](http://www.sttamp.com/loja/) | SP |
+
+* Região - Sul
+
 #### Internacionais
 
 ### Sites-Blogs
