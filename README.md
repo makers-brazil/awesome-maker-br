@@ -106,3 +106,11 @@
 * Telegram
   * [Arduino, Raspberry, Eletrônica e Afins...](https://telegram.me/arduinobr)
   * [Makers de Internet das Coisas](#)
+  
+### Como Contribuir
+ #### Para lojas
+ 
+ #### Para Sites/Blogs
+ 
+ #### Para Grupos
+ 
