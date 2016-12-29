@@ -4,6 +4,7 @@
  * [Lojas](#lojas)
  * [Sites-Blogs](#sites-blogs)
  * [Grupos](#grupos)
+ * [Como Contribuir](#como-contribuir)
  
 ### Lojas
 * [Nacionais](#nacionais)
@@ -108,6 +109,7 @@
   * [Makers de Internet das Coisas](#)
   
 ### Como Contribuir
+ 
  #### Para lojas
  
  #### Para Sites/Blogs
