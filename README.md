@@ -84,6 +84,7 @@
 
 * [Embarcados](https://www.embarcados.com.br/)
 * [BR Arduino](http://br-arduino.org/)
+* [Pedro Minatel](http://pedrominatel.com.br/pt/)
 * [Blog FilipeFlop](http://blog.filipeflop.com/)
 * [Do bit ao byte](http://dobitaobyte.com.br/)
 * [Arduino e Cia](http://www.arduinoecia.com.br/)
