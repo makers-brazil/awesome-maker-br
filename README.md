@@ -1,16 +1,16 @@
 # Makers Brasil
 
-## Indice
+# Indice
  * [Lojas](#lojas)
  * [Sites-Blogs](#sites-blogs)
  * [Grupos](#grupos)
  * [Como Contribuir](#como-contribuir)
  
-### Lojas
+## Lojas
 * [Nacionais](#nacionais)
 * [Internacionais](#internacionais)
 
-#### Nacionais
+### Nacionais
 
 * Região - Sudeste
 
@@ -62,7 +62,7 @@
 | [Mercado Livre](http://www.mercadolivre.com.br/) | - |
 
 
-#### Internacionais
+### Internacionais
 
 | Loja |
 |---|
@@ -80,7 +80,7 @@
 | [MiniInTheBox](http://www.miniinthebox.com/pt/) |
 | [TomTop](http://www.tomtop.com/) |
 
-### Sites-Blogs
+## Sites-Blogs
 
 * [Embarcados](https://www.embarcados.com.br/)
 * [BR Arduino](http://br-arduino.org/)
@@ -92,7 +92,7 @@
 * [Douglas Zuqueto](https://douglaszuqueto.com)
 
 
-### Grupos
+## Grupos
 
 * Facebook
   * [Arduino Brasil](https://www.facebook.com/groups/arduino.br/)
@@ -108,11 +108,11 @@
   * [Arduino, Raspberry, Eletrônica e Afins...](https://telegram.me/arduinobr)
   * [Makers de Internet das Coisas](#)
   
-### Como Contribuir
+## Como Contribuir
  
- #### Para lojas
+### Para lojas
  
- #### Para Sites/Blogs
+### Para Sites/Blogs
  
- #### Para Grupos
+### Para Grupos
  
