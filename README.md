@@ -116,13 +116,13 @@ A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melq
 Para contribuir basta abrir uma issue com o título e seu comentário. Cada categoria terá suas informações especificas portanto veja como deverá ser o formato da issue abaixo.
 
 ### Para lojas
-* Title: **Adição/Remoção de Loja**
+* Title: **Adição de Loja**
 * Comentário: **Nome da Loja - Link - Região - Cidade**
 
 ### Para Sites/Blogs
-* Title: **Adição/Remoção de Site-Blog**
+* Title: **Adição de Site-Blog**
 * Comentário: **Nome do Site-Blog - Link**
 
 ### Para Grupos
-* Title: **Adição/Remoção de Grupo**
+* Title: **Adição de Grupo**
 * Comentário: **Nome do Grupo - Link**
