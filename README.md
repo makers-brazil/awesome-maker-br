@@ -29,6 +29,7 @@
 | [Inobot](http://www.inobot.com.br/) | SP |
 | [Tecnoduino](http://www.tecnoduino.com/) | SP |
 | [Sttamp - Componentes eletrônicos](http://www.sttamp.com/loja/) | SP |
+| [Mamute Eletrônica](http://www.mamuteeletronica.com.br/home) | SP |
 
 * Região - Sul
 
