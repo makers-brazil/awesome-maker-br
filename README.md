@@ -80,6 +80,8 @@
 | [MiniInTheBox](http://www.miniinthebox.com/pt/) |
 | [TomTop](http://www.tomtop.com/) |
 
+A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melque Apolinario e aos outros adms pela contribuição. No momento é mantida pelo grupo Arduino Brasil.
+
 ## Sites-Blogs
 
 * [Embarcados](https://www.embarcados.com.br/)
