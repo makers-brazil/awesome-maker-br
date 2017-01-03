@@ -110,10 +110,17 @@
   * [Makers de Internet das Coisas](#)
   
 ## Como Contribuir
- 
+
+Para contribuir basta abrir uma issue com o título e seu comentário. Cada categoria terá suas informações especificas portanto veja como deverá ser o formato da issue abaixo.
+
 ### Para lojas
- 
+* Title: **Adição/Remoção de Loja**
+* Comentário: **Nome da Loja - Link - Região - Cidade**
+
 ### Para Sites/Blogs
- 
+* Title: **Adição/Remoção de Site-Blog**
+* Comentário: **Nome do Site-Blog - Link**
+
 ### Para Grupos
- 
+* Title: **Adição/Remoção de Grupo**
+* Comentário: **Nome do Grupo - Link**
