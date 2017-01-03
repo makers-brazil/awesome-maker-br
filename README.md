@@ -93,6 +93,7 @@ A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melq
 * [Blog Autocore Robótica](http://autocorerobotica.blog.br/)
 * [Fritzen Lab](http://fritzenlab.com.br/)
 * [Douglas Zuqueto](https://douglaszuqueto.com)
+* [ BlogDoJoseCintra](http://josecintra.com/blog/)
 
 
 ## Grupos
