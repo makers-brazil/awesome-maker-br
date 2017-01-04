@@ -4,6 +4,7 @@
  * [Lojas](#lojas)
  * [Sites-Blogs](#sites-blogs)
  * [Grupos](#grupos)
+ * [Fóruns](#foruns)
  * [Como Contribuir](#como-contribuir)
  
 ## Lojas
@@ -113,6 +114,10 @@ A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melq
   * [Arduino, Raspberry, Eletrônica e Afins...](https://telegram.me/arduinobr)
   * [Makers de Internet das Coisas](#)
   
+## Fóruns
+
+* [IoT Makers](http://forum.iotmakers.com.br/)
+
 ## Como Contribuir
 
 Para contribuir basta abrir uma issue com o título e seu comentário. Cada categoria terá suas informações especificas portanto veja como deverá ser o formato da issue abaixo.
