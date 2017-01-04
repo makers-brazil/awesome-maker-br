@@ -4,7 +4,7 @@
  * [Lojas](#lojas)
  * [Sites-Blogs](#sites-blogs)
  * [Grupos](#grupos)
- * [Fóruns](#foruns)
+ * [Fóruns](#fóruns)
  * [Como Contribuir](#como-contribuir)
  
 ## Lojas
