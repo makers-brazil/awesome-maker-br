@@ -117,6 +117,7 @@ A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melq
 ## Fóruns
 
 * [IoT Makers](http://forum.iotmakers.com.br/)
+* [Lab. de Garagem](http://labdegaragem.com/forum)
 
 ## Como Contribuir
 
