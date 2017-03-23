@@ -68,7 +68,7 @@
 
 | Loja |
 |---|
-| [DealeXtreme](http://www.autocorerobotica.com.br/) |
+| [DealeXtreme](http://www.dx.com) |
 | [Ebay](http://www.ebay.com/) |
 | [AliExpress](https://pt.aliexpress.com/br_home.htm) |
 | [Icstation](http://www.icstation.com/) |
