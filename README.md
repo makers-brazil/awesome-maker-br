@@ -120,6 +120,7 @@ A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melq
 
 * [IoT Makers](http://forum.iotmakers.com.br/)
 * [Lab. de Garagem](http://labdegaragem.com/forum)
+* [RoboCore](https://www.robocore.net/modules.php?name=Forums)
 
 ## Como Contribuir
 
