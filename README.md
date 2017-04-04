@@ -56,6 +56,7 @@
 | Loja | Estado |
 |---|---|
 | [Hu Infinito](http://www.huinfinito.com.br/) | DF |
+| [Arduo Eletro](https://www.arduoeletro.com/) | GO |
 
 * Outros
 
