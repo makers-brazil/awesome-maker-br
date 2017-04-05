@@ -114,9 +114,10 @@ A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melq
   * [Raspberry Pi Brasil](https://www.facebook.com/groups/231121887079558/)
   * [Rasbperry Pi Brasil Compra e Venda](https://www.facebook.com/groups/766241926830726/)
   * [Sistemas Embarcados](https://www.facebook.com/groups/sistemasembarcados)
+  * [Orange PI Br](https://www.facebook.com/groups/454053471471708)
 * Telegram
   * [Arduino, Raspberry, Eletrônica e Afins...](https://telegram.me/arduinobr)
-  * [Makers de Internet das Coisas](#)
+  * [Makers de Internet das Coisas](https://telegram.me/joinchat/A2gMUQLKZ1MnyZOhpX2-yA)
   
 ## Fóruns
 
