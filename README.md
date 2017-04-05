@@ -50,6 +50,7 @@
 | [Autocore Robótica](http://www.autocorerobotica.com.br/) | CE |
 | [Mekhos](http://www.mekhos.com.br/loja/) | PE |
 | [Arduinolandia](http://www.arduinolandia.com.br/) | PE |
+| [Smart Kits](http://www.smartkits.com.br/) | Fortaleza |
 
 * Região - Centro Oeste
 
