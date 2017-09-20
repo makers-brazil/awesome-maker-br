@@ -58,6 +58,8 @@
 |---|---|
 | [Hu Infinito](http://www.huinfinito.com.br/) | DF |
 | [Arduo Eletro](https://www.arduoeletro.com/) | GO |
+| [Casa do Arduino](http://www.casadoarduino.com/) | BA |
+
 
 * Outros
 
