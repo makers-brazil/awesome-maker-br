@@ -113,6 +113,7 @@ A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melq
   * [ESP8266 Brasil](https://www.facebook.com/groups/559527864188940)
   * [Arduino BR](https://www.facebook.com/groups/microcontroladorarduinobr)
   * [Cafeíno](https://www.facebook.com/groups/438462179629690/)
+  * [Raspberry PI Projetos](https://www.facebook.com/groups/raspberrypiprojetos/)
   * [Raspberry PI Brasil](https://www.facebook.com/groups/raspberrypibra/)
   * [Raspberry Pi Brasil](https://www.facebook.com/groups/231121887079558/)
   * [Rasbperry Pi Brasil Compra e Venda](https://www.facebook.com/groups/766241926830726/)
