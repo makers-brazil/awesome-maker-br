@@ -72,6 +72,7 @@
 
 | Loja |
 |---|
+| [Mouser - EUA](https://br.mouser.com/) |
 | [DealeXtreme](http://www.dx.com) |
 | [Ebay](http://www.ebay.com/) |
 | [AliExpress](https://pt.aliexpress.com/br_home.htm) |
