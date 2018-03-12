@@ -31,6 +31,7 @@
 | [Tecnoduino](http://www.tecnoduino.com/) | SP |
 | [Sttamp - Componentes eletrônicos](http://www.sttamp.com/loja/) | SP |
 | [Mamute Eletrônica](http://www.mamuteeletronica.com.br/home) | SP |
+| [Curto Circuito](https://www.curtocircuito.com.br/) | SP |
 
 * Região - Sul
 
