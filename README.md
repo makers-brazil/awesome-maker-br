@@ -49,7 +49,7 @@
 | Loja | Estado |
 |---|---|
 | [Autocore Robótica](http://www.autocorerobotica.com.br/) | CE |
-| [Mekhos](http://www.mekhos.com.br/loja/) | PE |
+| [Mekhos](http://mekhos.com.br/mekhos/checkout/loja/) | PE |
 | [Arduinolandia](http://www.arduinolandia.com.br/) | PE |
 | [Smart Kits](http://www.smartkits.com.br/) | Fortaleza |
 
