@@ -29,8 +29,10 @@
 | [Multilógica Shop](https://multilogica-shop.com/) | SP |
 | [Projeto Arduino](http://www.projetoarduino.com.br/) | SP |
 | [RoboCore](https://www.robocore.net/) | SP |
+| [Soldafria](https://www.soldafria.com.br/) | SP |
 | [Sttamp - Componentes eletrônicos](http://www.sttamp.com/loja/) | SP |
 | [Tecnoduino](http://www.tecnoduino.com/) | SP |
+| [TiggerCOMP](http://tiggercomp.com.br/) | SP |
 | [Vida de Silício](http://www.vidadesilicio.com.br/) | ES |
 
 * Região - Sul
@@ -51,6 +53,7 @@
 | [Arduinolandia](http://www.arduinolandia.com.br/) | PE |
 | [Autocore Robótica](http://www.autocorerobotica.com.br/) | CE |
 | [Mekhos](http://mekhos.com.br/mekhos/checkout/loja/) | PE |
+| [NefelTech](https://www.nefeltech.com/) | PE |
 | [Smart Kits](http://www.smartkits.com.br/) | Fortaleza |
 
 * Região - Centro Oeste
