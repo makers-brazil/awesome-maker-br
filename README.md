@@ -158,6 +158,10 @@ Para contribuir basta abrir uma issue com o título e seu comentário. Cada cate
 * Title: **Adição de Site-Blog**
 * Comentário: **Nome do Site-Blog - Link**
 
+### Para Canais do Youtube
+* Title: **Adição Canal do Youtube**
+* Comentário: **Nome do Canal - Link**
+
 ### Para Grupos
 * Title: **Adição de Grupo**
 * Comentário: **Nome do Grupo - Link**
