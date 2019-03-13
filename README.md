@@ -105,6 +105,7 @@ A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melq
 * [Douglas Zuqueto](https://douglaszuqueto.com)
 * [Embarcados](https://www.embarcados.com.br/)
 * [Faciltech](http://www.faciltech.info)
+* [Fernando K](https://www.fernandok.com/)
 * [Fritzen Lab](http://fritzenlab.com.br/)
 * [Pedro Minatel](http://pedrominatel.com.br/pt/)
 * [Tudo sobre Raspberry](http://tudosobreraspberry.info/)
