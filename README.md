@@ -3,6 +3,7 @@
 # Indice
  * [Lojas](#lojas)
  * [Sites-Blogs](#sites-blogs)
+ * [Canais no Youtube](#canais-no-youtube)
  * [Grupos](#grupos)
  * [Fóruns](#fóruns)
  * [Como Contribuir](#como-contribuir)
@@ -110,6 +111,15 @@ A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melq
 * [Pedro Minatel](http://pedrominatel.com.br/pt/)
 * [Tudo sobre Raspberry](http://tudosobreraspberry.info/)
 
+## Canais no Youtube
+
+* [Alvaro Viebrantz](https://www.youtube.com/user/alvarofellipe/)
+* [Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw)
+* [Canal do Jorge Maia](https://www.youtube.com/user/jorgeSMaia)
+* [Canal XProjetos](https://www.youtube.com/user/xprojetos)
+* [Fernando K](https://www.youtube.com/channel/UCIRfWLRDsdVOjJfpy6Ne04Q)
+* [Internet e Coisas](https://www.youtube.com/channel/UCV7W0JDXFLeaVU9ER-S4w6g)
+
 
 ## Grupos
 
@@ -127,6 +137,7 @@ A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melq
   * [Sistemas Embarcados](https://www.facebook.com/groups/sistemasembarcados)
 * Telegram
   * [Arduino, Raspberry, Eletrônica e Afins...](https://telegram.me/arduinobr)
+  * [Fernando K](https://t.me/fernandok_oficial)
   * [Makers de Internet das Coisas](https://telegram.me/joinchat/A2gMUQLKZ1MnyZOhpX2-yA)
   
 ## Fóruns
