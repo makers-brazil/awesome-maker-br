@@ -55,6 +55,7 @@
 | [Autocore Robótica](http://www.autocorerobotica.com.br/) | CE |
 | [Mekhos](http://mekhos.com.br/mekhos/checkout/loja/) | PE |
 | [NefelTech](https://www.nefeltech.com/) | PE |
+| [Recicomp](https://www.recicomp.com.br/) | PE |
 | [Smart Kits](http://www.smartkits.com.br/) | Fortaleza |
 
 * Região - Centro Oeste
