@@ -18,6 +18,7 @@
 
 | Loja | Estado |
 |---|---|
+| [AFELETRONICA](https://www.afeletronica.com.br/) | SP |
 | [Baú da Eletrônica](http://www.baudaeletronica.com.br/) | SP |
 | [Curto Circuito](https://www.curtocircuito.com.br/) | SP |
 | [Eletrogate](http://www.eletrogate.com/) | MG |
