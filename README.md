@@ -44,6 +44,7 @@
 | [Brasil Robotics](https://lojabrasilrobotics.blogspot.com.br/) | SC |
 | [Eletrodex](http://www.eletrodex.com.br/) | SC |
 | [FilipeFlop](http://www.filipeflop.com/) | SC |
+| [Piscaled](https://www.piscaled.com.br/) | SC |
 | [Proesi](http://proesi.com.br/) | SC |
 | [UsinaInfo](http://www.usinainfo.com.br/) | RS |
 | [Webtronico](http://www.webtronico.com/) | RS |
