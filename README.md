@@ -110,6 +110,7 @@ A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melq
 * [Fernando K](https://www.fernandok.com/)
 * [Fritzen Lab](http://fritzenlab.com.br/)
 * [Pedro Minatel](http://pedrominatel.com.br/pt/)
+* [Portal Vida de Silício](https://portal.vidadesilicio.com.br/)
 * [Tudo sobre Raspberry](http://tudosobreraspberry.info/)
 
 ## Canais no Youtube
