@@ -120,6 +120,7 @@ A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melq
 
 * [Alvaro Viebrantz](https://www.youtube.com/user/alvarofellipe/)
 * [Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw)
+* [Canal Codilab](https://www.youtube.com/channel/UCfdsu79gWAoee5cAbR5Rchw)
 * [Canal do Jorge Maia](https://www.youtube.com/user/jorgeSMaia)
 * [Canal XProjetos](https://www.youtube.com/user/xprojetos)
 * [Fernando K](https://www.youtube.com/channel/UCIRfWLRDsdVOjJfpy6Ne04Q)
