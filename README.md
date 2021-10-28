@@ -143,9 +143,10 @@ A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melq
   * [Sistemas Embarcados](https://www.facebook.com/groups/sistemasembarcados)
 * Telegram
   * [Arduino, Raspberry, Eletrônica e Afins...](https://telegram.me/arduinobr)
+  * [Codilab Oficial](https://t.me/joinchat/EVvVMVCiA8I3YjAx)
   * [Fernando K](https://t.me/fernandok_oficial)
   * [Makers de Internet das Coisas](https://telegram.me/joinchat/A2gMUQLKZ1MnyZOhpX2-yA)
-  
+
 ## Fóruns
 
 * [IoT Makers](http://forum.iotmakers.com.br/)
