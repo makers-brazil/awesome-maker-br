@@ -22,18 +22,13 @@
 | [Baú da Eletrônica](http://www.baudaeletronica.com.br/) | SP |
 | [Curto Circuito](https://www.curtocircuito.com.br/) | SP |
 | [Eletrogate](http://www.eletrogate.com/) | MG |
-| [Inobot](http://www.inobot.com.br/) | SP |
 | [Instituto Digital](http://www.institutodigital.com.br/) | SP |
-| [Loja Arduino](http://www.lojaarduino.com.br/) | MG |
 | [Mamute Eletrônica](http://www.mamuteeletronica.com.br/home) | SP |
-| [MartaDuino](http://www.martaduino.com.br/) | SP |
-| [Mult Comercial](http://loja.multcomercial.com.br/) | SP |
+| [Mult Comercial](https://www.multcomercial.com.br/) | SP |
 | [Multilógica Shop](https://multilogica-shop.com/) | SP |
 | [Projeto Arduino](http://www.projetoarduino.com.br/) | SP |
 | [RoboCore](https://www.robocore.net/) | SP |
 | [Soldafria](https://www.soldafria.com.br/) | SP |
-| [Sttamp - Componentes eletrônicos](http://www.sttamp.com/loja/) | SP |
-| [Tecnoduino](http://www.tecnoduino.com/) | SP |
 | [TiggerCOMP](http://tiggercomp.com.br/) | SP |
 | [Vida de Silício](http://www.vidadesilicio.com.br/) | ES |
 
@@ -43,11 +38,11 @@
 |---|---|
 | [Brasil Robotics](https://lojabrasilrobotics.blogspot.com.br/) | SC |
 | [Eletrodex](http://www.eletrodex.com.br/) | SC |
-| [FilipeFlop](http://www.filipeflop.com/) | SC |
+| [MakerHero (antiga FilipeFlop)](https://www.makerhero.com/) | SC |
 | [Piscaled](https://www.piscaled.com.br/) | SC |
 | [Proesi](http://proesi.com.br/) | SC |
 | [UsinaInfo](http://www.usinainfo.com.br/) | RS |
-| [Webtronico](http://www.webtronico.com/) | RS |
+
 
 * Região - Nordeste
 
@@ -55,16 +50,16 @@
 |---|---|
 | [Arduinolandia](http://www.arduinolandia.com.br/) | PE |
 | [Autocore Robótica](http://www.autocorerobotica.com.br/) | CE |
-| [Mekhos](http://mekhos.com.br/mekhos/checkout/loja/) | PE |
+| [Mekhos](http://mekhos.com.br/) | PE |
 | [NefelTech](https://www.nefeltech.com/) | PE |
 | [Recicomp](https://www.recicomp.com.br/) | PE |
 | [Smart Kits](http://www.smartkits.com.br/) | Fortaleza |
+| [Casa da Robótica](https://www.casadarobotica.com/) | BA
 
 * Região - Centro Oeste
 
 | Loja | Estado |
 |---|---|
-| [Arduo Eletro](https://www.arduoeletro.com/) | GO |
 | [Casa do Arduino](http://www.casadoarduino.com/) | BA |
 | [Hu Infinito](http://www.huinfinito.com.br/) | DF |
 
@@ -82,9 +77,6 @@
 |---|
 | [AliExpress](https://pt.aliexpress.com/br_home.htm) |
 | [Banggood](http://www.banggood.com/) |
-| [CentroMaker](http://centromaker.com/) |
-| [CuteDigi](http://store.cutedigi.com/) |
-| [DealeXtreme](http://www.dx.com) |
 | [Ebay](http://www.ebay.com/) |
 | [HobbyKing](https://hobbyking.com/en_us) |
 | [Icstation](http://www.icstation.com/) |
@@ -93,8 +85,8 @@
 | [ModMyPI](https://modmypi.com/) |
 | [Mouser - EUA](https://br.mouser.com/) |
 | [SparkFun](https://www.sparkfun.com/) |
-| [TinyDeal](http://www.tinydeal.com/) |
 | [TomTop](http://www.tomtop.com/) |
+| [UTSource - BR](https://www.utsource.net/br/) |
 
 A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melque Apolinario e aos outros adms pela contribuição. No momento é mantida pelo grupo Arduino Brasil.
 
@@ -125,6 +117,7 @@ A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melq
 * [Canal XProjetos](https://www.youtube.com/user/xprojetos)
 * [Fernando K](https://www.youtube.com/channel/UCIRfWLRDsdVOjJfpy6Ne04Q)
 * [Internet e Coisas](https://www.youtube.com/channel/UCV7W0JDXFLeaVU9ER-S4w6g)
+* [WR Kits](https://www.youtube.com/@canalwrkits)
 
 
 ## Grupos
